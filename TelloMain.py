@@ -6,7 +6,7 @@ width = 320  # WIDTH OF THE IMAGE
 height = 240  # HEIGHT OF THE IMAGE
 startCounter =0   #  0 FOR FIGHT 1 FOR TESTING
 ######################################################################
-
+ # hello Toluwani#
 
 # CONNECT TO TELLO
 me = Tello()
